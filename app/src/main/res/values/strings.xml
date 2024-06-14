@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="normal">To ensure the normal use of the function, please agree to camera permissions</string>
+    <string name="use_of">To ensure the normal use of the function, please agree to the album permissions</string>
+    <string name="camera">Camera</string>
+    <string name="album">Album</string>
+    <string name="select_image_source">Select Image Source</string>
+    <string name="cancel">cancel</string>
+</resources>
